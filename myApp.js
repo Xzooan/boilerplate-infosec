@@ -1,3 +1,4 @@
+npm install --save-exact package@version
 var express = require('express');
 var app = express();
 
